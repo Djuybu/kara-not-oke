@@ -1,4 +1,5 @@
 python
 media_files
 sound_preprocessing/*.wav
+/venv
 .h5
